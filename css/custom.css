@@ -6,7 +6,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	color: #000080;
 	}
-	
+
 .feature {
 	background: darkgreen linear-gradient(to bottom, green, lightgreen);
 	color: lightgreen;
@@ -44,6 +44,14 @@ p {
 	color: #000080;
 }
 
+.footer-blurb p{
+	display: flex;
+	justify-content: center;
+}
+
+.navbar{
+	background-color: lightgreen;
+}
 
 .feature,
 .page-intro,
